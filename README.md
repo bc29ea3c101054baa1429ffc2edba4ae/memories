@@ -24,7 +24,7 @@ delete [table name] [id]
 ``` bash
 [mucho@home localdb]$ app init example
 [mucho@home localdb]$ app tables
-todoo
+example
 [mucho@home localdb]$ app insert example "hack the planet"
 [mucho@home localdb]$ app search example hack
 1|2019-04-24 06:09:01|hack the planet
